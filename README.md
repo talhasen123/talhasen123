@@ -10,21 +10,25 @@
 ## Highlights
 * Personal/School Projects
 
-!!!!* [Stack Media] (https://github.com/talhasen123/stack-media) 
-!!!!* [4-Man Elevator] (https://github.com/talhasen123/4-Man-Elevator) 
-!!!!* [Catan] (https://github.com/talhasen123/catan-digital-board-game/tree/master) 
-!!!!* [WebGL Mantis] (https://github.com/talhasen123/mantis-animator) 
-!!!!* [WebGL Raycast] (https://github.com/talhasen123/ray-caster) 
+  - [Stack Media](https://github.com/talhasen123/stack-media) 
+
+  - [4-Man Elevator](https://github.com/talhasen123/4-Man-Elevator) 
+
+  - [Catan](https://github.com/talhasen123/catan-digital-board-game/tree/master) 
+
+  - [WebGL Mantis](https://github.com/talhasen123/mantis-animator) 
+
+  - [WebGL Raycast](https://github.com/talhasen123/ray-caster) 
 
 * Game Projects
 
-!!!!* [My First FPS Game] (https://github.com/talhasen123/FirstPersonShooter/tree/master) 
-!!!!* [Sunshine Adventure (https://github.com/talhasen123/Sunshine-Adventure/tree/master) 
+  - [My First FPS Game](https://github.com/talhasen123/FirstPersonShooter/tree/master) 
+  - [Sunshine Adventure](https://github.com/talhasen123/Sunshine-Adventure/tree/master) 
 
 * Other Projects
 
-!!!!* [Treasure Hunt] (https://github.com/talhasen123/Treasure-Hunt) 
-!!!!* [Walking Ball] (https://github.com/talhasen123/WalkingBall) 
+  - [Treasure Hunt](https://github.com/talhasen123/Treasure-Hunt) 
+  - [Walking Ball](https://github.com/talhasen123/WalkingBall) 
 
 ## Closing Act
-If you are reading this, you are welcome :). I love what I do, and I am sure I will love it as long as I am here!
+If you are reading this, you are welcome :). I love what I do, and I am sure I will love it as long as I am here

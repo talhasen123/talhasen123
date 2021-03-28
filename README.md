@@ -3,7 +3,7 @@
 ## About Me
 * Currently working in TaleWorlds, as a game developer.
 * Passionate about games, specifically Destiny 2.
-* 2021 Bilkent Computer Science graduate (as I am writing this, hopefully, Jun 2021 :D)
+* 2021 Bilkent Computer Science graduate (as I am writing this, hopefully, Jun 2021)
 * I have several years of experience with Unity and a little bit experience with Unreal Engine, I use mainly C#, and sometimes C++ for my projects.
 * Very eager to learn. Specifically new design patterns and anything about game development!
 

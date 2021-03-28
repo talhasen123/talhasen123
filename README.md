@@ -31,4 +31,4 @@
   - [Walking Ball](https://github.com/talhasen123/WalkingBall) 
 
 ## Closing Act
-If you are reading this, you are welcome :). I love what I do, and I am sure I will love it as long as I am here
+If you are reading this, thank you. I love what I do, and I am sure I will love it as long as I am here.
